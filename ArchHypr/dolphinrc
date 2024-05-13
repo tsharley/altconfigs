@@ -1,0 +1,37 @@
+[ContentDisplay]
+DirectorySizeCount=false
+RecursiveDirectorySizeLimit=3
+
+[DetailsMode]
+IconSize=22
+PreviewSize=32
+
+[General]
+BrowseThroughArchives=true
+FilterBar=true
+ShowFullPathInTitlebar=true
+SortingChoice=CaseInsensitiveSorting
+UseTabForSwitchingSplitView=true
+Version=202
+ViewPropsTimestamp=2024,4,30,0,8,40.902
+
+[IconsMode]
+UseSystemFont=false
+ViewFont=Cantarell,9,-1,5,400,0,0,0,0,0,0,0,0,0,0,1
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[PreviewSettings]
+Plugins=appimagethumbnail,audiothumbnail,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,textthumbnail
+
+[Search]
+Location=Everywhere
+
+[ViewPropertiesDialog]
+2 screens: Window-Maximized=true
